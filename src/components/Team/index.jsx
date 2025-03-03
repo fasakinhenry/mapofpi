@@ -45,6 +45,12 @@ const team = [
     name: 'Francis Mwaura',
     role: 'Software Engineer',
   },
+  {
+    key: '8',
+    image: './team/yusuf-hammed.png',
+    name: 'Yusuf Hammed',
+    role: 'Backend developer',
+  },
 ];
 
 function Team() {
